@@ -19,4 +19,4 @@
 
 ## Testing
 
-- start typescript linter `npm run test`
+- start test `npm run test`
